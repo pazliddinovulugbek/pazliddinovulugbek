@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Ulug'bek Pazliddinov  
 
 ### 🚀 About Me  
-- 💻 I'm a **FrontEnd Developer**  
-- 📚 Currently learning **Html, Css, Js, React.js**  
-- 🎯 Goal: To become a FrontEnd Developer  
+- 💻 I'm a **Front-End Developer**  
+- 📚 Currently learning **HTML, CSS, JS, React.js**  
+- 🎯 Goal: To become a skilled and creative Front-End Engineer  
 - 🌍 From Uzbekistan  
 
 ---
@@ -23,17 +23,14 @@
 ### 📊 GitHub Stats  
 
 ![Ulug'bek's GitHub stats](https://github-readme-stats.vercel.app/api?username=pazliddinovulugbek&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pazliddinovulugbek&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pazliddinovulugbek&layout=compact&theme=radical)
 
 ---
 
-### 🌟 Achievements  
-
-These are some of the badges I’ve earned on GitHub:
+### 🏆 GitHub Achievements  
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pazliddinovulugbek&theme=radical&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pazliddinovulugbek&theme=radical&no-frame=true&row=1&title=Stars,Commits,Followers,Repositories,PullRequest" />
 </p>
 
 ---
