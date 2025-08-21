@@ -28,6 +28,16 @@
 
 ---
 
+### 🌟 Achievements  
+
+These are some of the badges I’ve earned on GitHub:
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=pazliddinovulugbek&theme=radical&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest" />
+</p>
+
+---
+
 ### 🌐 Connect With Me  
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ulugbekpazliddinovv)  
