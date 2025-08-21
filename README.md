@@ -3,7 +3,7 @@
 ### 🚀 About Me  
 - 💻 I'm a **Front-End Developer**  
 - 📚 Currently learning **HTML, CSS, JS, React.js**  
-- 🎯 Goal: To become a skilled and creative Front-End Engineer  
+- 🎯 Goal: To become a skilled and creative Front-End Developer  
 - 🌍 From Uzbekistan  
 
 ---
