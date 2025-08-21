@@ -2,8 +2,8 @@
 
 ### 🚀 About Me  
 - 💻 I'm a **FrontEnd Developer**  
-- 📚 Currently learning **React.js, Next.js, and Node.js**  
-- 🎯 Goal: To become a FullStack Developer  
+- 📚 Currently learning **Html, Css, Js, React.js**  
+- 🎯 Goal: To become a FrontEnd Developer  
 - 🌍 From Uzbekistan  
 
 ---
@@ -30,9 +30,9 @@
 
 ### 🌐 Connect With Me  
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/USERNAME)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ulugbekpazliddinov)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pazliddinovulugbek439@gmail.com)  
 
 ---
 
