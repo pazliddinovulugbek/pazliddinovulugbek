@@ -25,16 +25,6 @@
 ![Ulug'bek's GitHub stats](https://github-readme-stats.vercel.app/api?username=pazliddinovulugbek&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pazliddinovulugbek&layout=compact&theme=radical)
 
----
-
-### 🏆 GitHub Achievements  
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pazliddinovulugbek&theme=radical&no-frame=true&row=1&title=Stars,Commits,Followers,Repositories,PullRequest" />
-</p>
-
----
-
 ### 🌐 Connect With Me  
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ulugbekpazliddinovv)  
